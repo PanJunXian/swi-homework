@@ -9,7 +9,7 @@ title: “双鸭山大学”的来源
 
 
 ## 走红的经过
->微博上一本书的截图出现了这样一段
+>微博上一本书的截图出现这样一段
 话：“1984年出生在中国广东省广州市，父母是双鸭山大学（Sun Yat-sen University）的老师。五岁那年夏天，随父母去了香港，后来全家移民新加坡。中国清华大学本科和硕士毕业，新加坡南洋理工大学博士毕业，现在香港中文大学任助理教授。”
 ![走红的微博截图](https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=b2c2a958f71f4134f43a0d2c4476feaf/b999a9014c086e0609490bf008087bf40bd1cba3.jpg)
 ![网络双鸭山大学的图片](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1537862601320&di=c36524a062e269d0899b58188cf2849c&imgtype=0&src=http%3A%2F%2Fpic.eastlady.cn%2Fuploads%2Ftp%2F201706%2F9999%2F6703c6686e.jpg)
