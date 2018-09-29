@@ -19,7 +19,7 @@ title: 用Construt2制作HTML5小游戏
 
 ### 2、设置背景
 步骤：
-
+#### 前戏
 (i)在右上方的Layers上新建一个层作为背景层
 ![](\images\博客截图2.png)
 (ii)双击舞台，弹出一个窗口，在‘General’里面找一个‘Tiled Blackground’的项目
@@ -36,6 +36,11 @@ PS：打开blackground后我们会发现这个图小的可怜，这时我们点�
 (iii)接下来，设置你的这个小游戏可以由键盘、鼠标来操控，具体方法就是双击画布，然后在‘Input’里找‘Mouse’和‘Keyboard’，这样操作之后并无什么反应，但是再次双击画布就会发现Keyboard或是Mouse已经不再原来的地方了
 ![](\images\QQ图片20180929210957.png)
 
-(iv)
+#### 高潮
+(i)创造你的player！enemy!of course bullet！
+双击画布创建一个Sprite作为怪兽，再创建一个Sprite作为player，
+再创建一个作为子弹！(添加之后如果移动不了 可以解锁层)，我们只要把player放在你想出生的点就OKK了。
+
+(ii)
 
 
